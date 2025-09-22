@@ -1,0 +1,10 @@
+{
+  "speed": 12.5,
+  "distance_cm": 85.2,
+  "motor_status": "forward",
+  "led_states": {"left": false, "right": true, "head": true},
+  "servo_angle": 110,
+  "battery_pct": 64,
+  "drowsy": false,
+  "emotion": "neutral"
+}
